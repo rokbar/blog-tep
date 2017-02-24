@@ -14,7 +14,7 @@ class SitePost extends React.Component {
         const post = route.page.data
         const home = (
         <div>
-          <Link className='gohome' to={ prefixLink('/') }> All Articles
+          <Link className='gohome' to={ prefixLink('/') }> Įrašai
           </Link>
         </div>
         )
@@ -27,17 +27,12 @@ class SitePost extends React.Component {
                   <h1>{ post.title }</h1>
                   <div dangerouslySetInnerHTML={ {    __html: post.body} } />
                   <div className='date-published'>
-                    <em>Published { moment(post.date).format('D MMM YYYY') }</em>
+                    <em>Paskelbta: { moment(post.date).format('YYYY-MM-DD') }</em>
                   </div>
                 </div>
                 <div className='footer'>
                   <ReadNext post={ post } {...this.props}/>
                   <hr></hr>
-                  <p>
-                    { config.siteDescr }
-                    <a href={ config.siteTwitterUrl }>
-                      <br></br> <strong>{ config.siteAuthor }</strong> on Twitter</a>
-                  </p>
                 </div>
               </div>
             </div>

@@ -1,6 +1,13 @@
-# Lumen
+# Blog
 
-[Gatsby](https://github.com/gatsbyjs/gatsby) starter for creating a blog.
+A blog created using Gatsby. A React.js static site generator.
+
+This blog is built using Gatsby starter - Lumen.
+
+## Lumen
+
+[Gatsby](https://github.com/gatsbyjs/gatsby) repository.
+[Lumen](https://github.com/wpioneer/gatsby-starter-lumen) starter for creating a blog.
 
 ## Features
 + Clean and extensible code.

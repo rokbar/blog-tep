@@ -10,15 +10,15 @@ class SiteNav extends React.Component {
             <nav className='blog-nav'>
               <ul>
                 <li>
-                  <Link to={ prefixLink('/')} activeClassName="current" onlyActiveOnIndex> Articles
+                  <Link to={ prefixLink('/')} activeClassName="current" onlyActiveOnIndex> Įrašai
                   </Link>
                 </li>
                 <li>
-                  <Link to={ prefixLink('/about/')} activeClassName="current"> About me
+                  <Link to={ prefixLink('/about/')} activeClassName="current"> Apie
                   </Link>
                 </li>
                 <li>
-                  <Link to={ prefixLink('/contact/')} activeClassName="current"> Contact me
+                  <Link to={ prefixLink('/team/')} activeClassName="current"> Komanda
                   </Link>
                 </li>
               </ul>

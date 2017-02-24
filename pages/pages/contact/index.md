@@ -1,15 +1,23 @@
 ---
-title: "Contact me"
+title: "Komanda"
 layout: page
-path: "/contact"
+path: "/team"
 ---
 
-Lorem ipsum dolor sit amet, in summo tamquam mea, gubergren laboramus torquatos usu ne, magna rationibus sit eu. Id constituam honestatis pri, iracundia adversarium vel te. Per ferri aliquam impedit ex. Ei nec elitr nonumy vidisse, et qui fierent maluisset sadipscing, tincidunt vituperata delicatissimi te quo.
+<a class="list-group-item" href="https://www.facebook.com/antanas.jurijus?fref=ts"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>&nbsp; Antanas Jurijus</a>
 
-Te est iisque volutpat, tacimates dissentias no ius. Ea eam quodsi omnium deseruisse, affert evertitur sententiae sea ei. Dicit minimum at quo, nulla ludus vivendum cu mea, audire reformidans mei id. In his deserunt tincidunt, cu stet soleat libris sit, et modus illum sea. Id usu ubique volumus deterruisset, mea ut viderer reformidans complectitur. Ignota meliore eu eam.
+<a class="list-group-item" href="https://www.facebook.com/deividas.pekunas?fref=ts"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>&nbsp; Deividas Pekūnas</a>
 
-Vix mazim ornatus in, populo causae mandamus cu mei, ut malis novum postulant duo. Pro tantas consulatu in, ei nullam labore detraxit sed. Ne nam wisi percipitur. Ea sint nonumy pri. Id mel graeco latine tacimates, eum no habeo laudem iriure, sea putent tritani accommodare id. Pro no rebum decore eripuit.
+<a class="list-group-item" href="https://www.facebook.com/evelina.gric?fref=ts"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>&nbsp; Evelina Griciūtė</a>
 
-Alia albucius pro ut. Mea ut ipsum dolor. Qui ea volumus blandit iudicabit, ad sed timeam nominati posidonium, mel ei meis ocurreret mnesarchum. Mei elitr senserit voluptatibus ad, te quod vivendo vix. Vis no perfecto abhorreant, cu appellantur repudiandae mei, at vix mnesarchum honestatis disputationi.
+<a class="list-group-item" href="https://www.facebook.com/mantas.karpavicius.75?fref=ts"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>&nbsp; Mantas Karpavičius</a>
 
-Omnium utamur detraxit te pro, affert nominati has ea. Delectus platonem ius et. Cibo aperiam denique an duo, illud laudem constituam quo id. Inani civibus pertinacia nam an. Luptatum instructior sed at, an elit accommodare sit, vix ne nulla soluta.
+<a class="list-group-item" href="https://www.facebook.com/martynas.narkevicius.9?fref=ts"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>&nbsp; Martynas Narkevičius</a>
+
+<a class="list-group-item" href="https://www.facebook.com/raimonda.gedvilaite.9?fref=ts"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>&nbsp; Raimonda Gedvilaitė</a>
+
+<a class="list-group-item" href="https://www.facebook.com/regimantas.mazeika?fref=ts"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>&nbsp; Regimantas Mažeika</a>
+
+<a class="list-group-item" href="https://www.facebook.com/rokas.barsauskas?fref=ts"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>&nbsp; Rokas Baršauskas</a>
+
+***
