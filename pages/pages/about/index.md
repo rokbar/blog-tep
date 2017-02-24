@@ -14,6 +14,6 @@ Todėl su mentorių pagalba bandysime imituoti verslo idėjos įgyvendinimą.
 Tinklaraštyje dalinsimės savo sėkmėmis ir nesėkmėmis.
 Rašysime apie įgytą patirtį ir pamokas, taip siekdami geriau jas įsisavinti.
 
-[Komandos sudėtis](/team/)
+[Komandos sudėtis](/blog-tep/team/)
 
 ***
