@@ -1,6 +1,6 @@
 ---
 title: "Trečia paskaita"
-date: "2017-02-18T18:00:00.000Z"
+date: "2017-02-25T18:00:00.000Z"
 layout: post
 path: "/third-lecture/"
 category: "Paskaitos"
