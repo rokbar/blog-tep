@@ -27,7 +27,13 @@ Pirmosios paskaitos metu liko nustebinti ne tik studentai, bet ir kurso dėstyto
 Studentai, kurie nelabai žinojo apie patį Technologijų antreprenerystės kursą, pagaliau galėjo suvokti, kad viskas suksis apie verslo pasaulį. Pradėjęs diskusiją su moderatore, Ilja Laurs visų pirmą teigė, kad žmonės siekiantys aukštojo išsilavinimo, būna brandesni. Po studijų, jie kitaip žvelgia į pasaulį, jų siekiai, tikslai visai kitokie. Taip pat, pasak svečio, norint suderinti studijas su darbu yra gan sudėtinga. „Individualaus recepto nėra“, nes kiekviena specialybė yra specifiška, vienur reikalaujama daugiau teorinių žinių, o kitur praktinių. Paklausus, ką jis darytų kitaip, atsidūręs pirmakursio vietoje, Ilja atsakė labai paprastai: reikia viską planuoti, suvokti, ką tu darai ir kaip tu sieki savo tikslo. Tiesiog būtina racionaliai išnaudoti visą turimą laiką.
 Būtent ši mintis privertė mus susimąstyti, nes dauguma studentų visgi nemoka dorai suplanuoti savo laiko.
 
-Kalbant apie startuolius, Ilja teigė, jog viską pradėti kuo puikiausiai galima Lietuvoje. Naujų inovacijų ieškojimas, tobulinimas laisvai gali būti vykdomas mūsų šalyje, nes čia viskas pigiau, mažiau konkurencijos, taip pat galima išvystyti idėją daug greičiau. Tačiau reikia nebijoti rizikuoti. „Šviežias“ antrepreneris ne turi, o privalo turėti didelę toleranciją rizikai!  
+Kalbant apie startuolius, Ilja teigė, jog viską pradėti kuo puikiausiai galima Lietuvoje. Naujų inovacijų ieškojimas, tobulinimas laisvai gali būti vykdomas mūsų šalyje, nes čia viskas pigiau, mažiau konkurencijos, taip pat galima išvystyti idėją daug greičiau. Tačiau reikia nebijoti rizikuoti. „Šviežias“ antrepreneris ne turi, o privalo turėti didelę toleranciją rizikai!
+
+<figure>
+	<blockquote>
+		<p>„Šviežias“ antrepreneris ne turi, o privalo turėti didelę toleranciją rizikai!</p>
+	</blockquote>
+</figure>
 
 <figure class="floatLeft">
 	<img style="height: 210px;" src="./laurs.jpg" alt="laurs">
