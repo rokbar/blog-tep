@@ -4,7 +4,7 @@ date: "2017-02-04T18:00:00.000Z"
 layout: post
 path: "/first-lecture/"
 category: "Paskaitos"
-description: "Studentui kiekvienas naujas semestras – tarsi galimybė pradėti viską nuo pradžių. Ne išimtis ir šis pavasario semestras. Po sesijos vargų: nauji moduliai, naujos žinios. Pasirinkę Technologijų antreprenerystės kursą, į pirmąją paskaitą žengėme ramia širdimi, jog čia nereikės kasdien „kalti“ teorijos, vartyti milžiniškos apimties konspektų, o ir kurso pavadinimas intriguoja. Tačiau susidūrėme su ne ką mažesniais iššūkiais..."
+description: "Pirmosios paskaitos metu liko nustebinti ne tik studentai, bet ir kurso dėstytojai. Pasak pastarųjų, dar nėra taip buvę, jog šį modulį pasirinktų toks kiekis studentų. Netilpus gan didelėje auditorijoje, smalsuoliams teko \"patogiai\" įsitaisyti ant laiptų ir netgi grindų. Tačiau visi nepatogumai nublanko prieš žmogų, kuris tąkart dalinosi savo patirtimi, idėjomis bei patarimais, kaip studijų projektą paversti startuoliu. Tai Ilja Laurs - 2011 m. Europos verslo spaudos asociacijos Metų vadovo titulo laimėtojas, vienas iš 25 Europos technologijų lyderių pagal “Wall Street Journal”..."
 ---
 
 ## Įžanga į kursą
