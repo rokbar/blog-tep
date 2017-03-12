@@ -40,7 +40,8 @@ class SiteSidebar extends React.Component {
                   <footer>
                     <SiteLinks {...this.props}/>
                     <p className='copyright'>
-                      &copy; Visos teisės saugomos.
+                      &copy; Visos teisės saugomos. <br />
+                      Kauno Technologijos Universitetas, 2017
                     </p>
                   </footer>
                 </div>
