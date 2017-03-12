@@ -4,7 +4,7 @@ date: "2017-02-11T18:00:00.000Z"
 layout: post
 path: "/second-lecture/"
 category: "Paskaitos"
-description: "Atsigavę po pirmosios paskaitos, suvokę Technologijų antreprenerySstės kurso tikslą, po savaitės susitikome diskusijoje \"Antrepreneriška lyderystė\" su dr. Daliumi Misiūnu (AB \"Lietuvos energija\" vadovas) bei Gediminu Nemaniu (\"Rubbee\" dviračio elektrinės pavaros kūrėjas). Gerb. Dalius Misiūnas mums buvo žinomas, tačiau susitikti su Gediminu bei išgirsti apie jo išradimą bei sėkmę buvo kažkas naujo ir įdomaus..."
+description: "Atsigavę po pirmosios paskaitos, suvokę Technologijų antreprenerystės kurso tikslą, po savaitės susitikome diskusijoje \"Antrepreneriška lyderystė\" su dr. Daliumi Misiūnu (AB \"Lietuvos energija\" vadovas) bei Gediminu Nemaniu (\"Rubbee\" dviračio elektrinės pavaros kūrėjas). Gerb. Dalius Misiūnas mums buvo žinomas, tačiau susitikti su Gediminu bei išgirsti apie jo išradimą bei sėkmę buvo kažkas naujo ir įdomaus..."
 ---
 
 <figure class="floatLeft">
