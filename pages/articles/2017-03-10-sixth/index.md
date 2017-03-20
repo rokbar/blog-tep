@@ -1,8 +1,8 @@
 ---
-title: "Penkta paskaita"
+title: "Šešta paskaita"
 date: "2017-03-10T18:00:00.000Z"
 layout: post
-path: "/fifth-lecture/"
+path: "/sixth-lecture/"
 category: "Paskaitos"
 description: "Šį ketvirtadienį vykusioje Technologijų antreprenerystės kurso paskaitoje turėjome galimybę išgirsti pagrindinius aspektus apie jauno verslo metodologiją. Į visą šį inovacijų pasaulį galėjome pažvelgti ir iš teorinės, ir iš praktiškos pusės.  Dažniausias ir turbūt pagrindinis judraus startuolio klausimas: „kaip nežlugti vos pradėjus?“ Visų pirma reikia suvokti, kad judrus ir tradicinas verslo modeliavimas skiriasi... "
 ---
@@ -44,4 +44,4 @@ Kitas paskaitos svečias Paulius Paškevičius (startuolio "Solid Education" įk
 Kad ir kaip įdomiai tai skambėtų, bet šio startuolio klientai – vaikai. Įvairaus amžiaus jaunuoliai yra mokomi programuoti, kurti įvairius žaidimus, programėles. Mums ši idėja – pasitelkti vaikus – labai sudomino. Nepaslaptis, jog naujosios „Z“ kartos atstovai yra imlūs visoms naujovėms, o gyvenimas šalia įprasto kompiuterio – kasdienybė.   Tad argi ne gudru, „sugundyti“ jaunąją kartą savitomis pramogomis, praversiančiomis ateityje?  
 
 
-Mūsų nuomone, Pauliaus verslo idėja – daug žadanti. Pagrindinis aspektas, kad jis pasitelkia  ateities kartas. Tai geras bruožas, nes visa, kas yra siejama su jaunų žmonių tobulinimu, ugdymu, visuomenėje bus visuomet įvertinta. Kitas svarbus dalykas – informacinės technologijos. Šiuolaikinis sociumas naujų inovacijų taip lengvai nepriima. Tačiau visa, kas su susiję su infromatika, dirbtiniu intelektu, nuolat šmėžuoja topų viršūnėse. 
+Mūsų nuomone, Pauliaus verslo idėja – daug žadanti. Pagrindinis aspektas, kad jis pasitelkia  ateities kartas. Tai geras bruožas, nes visa, kas yra siejama su jaunų žmonių tobulinimu, ugdymu, visuomenėje bus visuomet įvertinta. Kitas svarbus dalykas – informacinės technologijos. Šiuolaikinis sociumas naujų inovacijų taip lengvai nepriima. Tačiau visa, kas su susiję su informatika, dirbtiniu intelektu, nuolat šmėžuoja topų viršūnėse. 
