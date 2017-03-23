@@ -1,8 +1,8 @@
 ---
-title: "Šešta paskaita"
+title: "Penkta paskaita"
 date: "2017-03-10T18:00:00.000Z"
 layout: post
-path: "/sixth-lecture/"
+path: "/fifth-lecture/"
 category: "Paskaitos"
 description: "Šį ketvirtadienį vykusioje Technologijų antreprenerystės kurso paskaitoje turėjome galimybę išgirsti pagrindinius aspektus apie jauno verslo metodologiją. Į visą šį inovacijų pasaulį galėjome pažvelgti ir iš teorinės, ir iš praktiškos pusės.  Dažniausias ir turbūt pagrindinis judraus startuolio klausimas: „kaip nežlugti vos pradėjus?“ Visų pirma reikia suvokti, kad judrus ir tradicinas verslo modeliavimas skiriasi... "
 ---

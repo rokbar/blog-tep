@@ -1,14 +1,14 @@
 ---
-title: "Septinta paskaita. Bandomasis pitch'as"
+title: "Šešta paskaita. Bandomasis pitch'as"
 date: "2017-03-20T18:00:00.000Z"
 layout: post
-path: "/seventh-lecture/"
+path: "/sixth-lecture/"
 category: "Paskaitos"
-description: "Septintoje Technologijų antreprenerystės paskaitoje apsilankė Arvydas Bložė - \"Startup.lt\" verslo akseleratoriaus vadovas.
+description: "Šeštoje Technologijų antreprenerystės paskaitoje apsilankė Arvydas Bložė - \"Startup.lt\" verslo akseleratoriaus vadovas.
 Taip paskaitoje apsilankė \"Sillicon Valley Innovation Challenge\" konkurse pelniusios \"Best Global Innovation\" apdovanojimą idėjos \"GlucoCarer\" autoriai: Kipras Zabeliauskas, Rolandas Jakaitis..."
 ---
 
-Septintoje "Technologijų antreprenerystės" paskaitoje apsilankė Arvydas Bložė - "Startup.lt" verslo akseleratoriaus vadovas.
+Šeštoje "Technologijų antreprenerystės" paskaitoje apsilankė Arvydas Bložė - "Startup.lt" verslo akseleratoriaus vadovas.
 Taip pat, "Sillicon Valley Innovation Challenge" konkurse pelniusios "Best Global Innovation" apdovanojimą idėjos "GlucoCarer" autoriai: Kipras Zabeliauskas ir Rolandas Jakaitis.
 
 <figure class="floatRight">
