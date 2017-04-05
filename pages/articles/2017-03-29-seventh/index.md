@@ -3,7 +3,7 @@ title: "Septinta paskaita. Tarpinis pitch'as"
 date: "2017-03-29T18:00:00.000Z"
 layout: post
 path: "/seventh-lecture/"
-category: "Paskaitos"
+category: "Idėja"
 description: "Septintos paskaitos metu susidūrėme su nelengva užduotimi – teko pristatyti savo idėją, apie autoplovyklų rezervavimo programėlę, kurso mentorių komandai ir visiems modulio studentams..."
 ---
 
